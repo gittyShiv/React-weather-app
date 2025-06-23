@@ -1,0 +1,15 @@
+.InfoBox{
+    text-align: center;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Wcard .weather-img{
+    width: 32rem;
+    height: 17rem;
+}
+h1{
+    margin-top: 5rem;
+}
