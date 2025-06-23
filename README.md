@@ -24,7 +24,7 @@ A simple and responsive weather widget built using React. This app fetches real-
 ## 📦 Installation
 
 bash
-git clone https://github.com/your-username/weather-widget.git
-cd weather-widget
-npm install
-npm run dev
+-git clone https://github.com/your-username/weather-widget.git
+-cd weather-widget
+-npm install
+-npm run dev
